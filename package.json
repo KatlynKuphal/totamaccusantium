@@ -1,0 +1,26 @@
+{
+  "name": "totamaccusantium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KatlynKuphal/totamaccusantium.git"
+  },
+  "author": "HalWeimann",
+  "license": "MIT",
+  "dependencies": {
+    "fixturify": "^0.3.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "fs-extra": "^7.0.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "bugs": {
+    "url": "https://github.com/KatlynKuphal/totamaccusantium.git/issues"
+  },
+  "homepage": "https://github.com/KatlynKuphal/totamaccusantium.git"
+}
